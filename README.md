@@ -1,11 +1,13 @@
 # Cluster-based_extraction_OnSSET
 Developed in order to facilitate the GIS extraction for OnSSET when the population base layer in the analysis is a polygon layer
 
-As of February 2021, there are three versions of the plugin:
+As of February 2021, there are three versions of the plugis:
 
 * **Option 1**. Works for QGIS 3.10 (latest LTR)
 * **Option 2**. Works for QGIS 3.4 
 * **Option 3**. Works for QGIS 3.2 
+
+**Note:** As of February 2021 support of Option 2 and 3 is discontinued. These versions can still be used, but troubleshooting and changes will exclusively target the 3.10 version of the plugin.
 
 ### Introduction
 
