@@ -20,8 +20,3 @@ Insturction on how to install the plugin is available [here](https://github.com/
 
 Insturction on how to use the plugin is available [here](https://github.com/KTH-dESA/Cluster-based_extraction_OnSSET/blob/master/Instructions/Running%20the%20cluster-based%20plugin.docx)
 
-The plugin is avialble for download [here](https://github.com/KTH-dESA/Cluster-based_extraction_OnSSET/blob/master/Plugin/gep_onsset.zip)
-
-
-
-
