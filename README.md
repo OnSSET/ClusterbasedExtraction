@@ -13,3 +13,5 @@ As of February 2021, there are three versions of the plugis:
 The following repository includes an extraction plugin used in order to automate the GIS data extraction for cluster-based OnSSET analysis. The plugin is developed in a PyQGIS interface and adapted to be run direclty in QGIS (version 3.0 or newer). 
 
 The repository includes a zipped plugin folder that can be directly installed into QGIS as well as instruction on how to install and run the plugin. 
+
+The plugin is avialble for download [here](https://github.com/OnSSET/ClusterbasedExtraction/tree/master/Plugin/Option%201)
